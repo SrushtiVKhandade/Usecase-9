@@ -20,4 +20,4 @@ jobs:
 
     - name: Run Script
       run: |
-        echo "New files detected in HTML folder"
+        echo "Hii Srushti, new files detected in your HTML folder"
